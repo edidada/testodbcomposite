@@ -1,3 +1,5 @@
+# testodbcomposite
+
 This example shows how to use composite value types as data members in objects
 (including as object id members) and other value types, as element types in
 containers, and as base types for other composite value types. It also shows
@@ -67,4 +69,4 @@ Once the database schema is ready, we can run the example (using MySQL as
 the database):
 
 ./driver --user odb_test --database odb_test
-# testodbcomposite
+
