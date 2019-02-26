@@ -1,3 +1,5 @@
+
+```shell
 ====================[ Build | testodbcomposite | Debug ]========================
 /root/clion-2018.2.6/bin/cmake/linux/bin/cmake --build /root/CLionProjects/testodbcomposite/cmake-build-debug --target testodbcomposite -- -j 1
 Scanning dependencies of target testodbcomposite
@@ -70,3 +72,5 @@ gmake[3]: *** [testodbcomposite] 错误 1
 gmake[2]: *** [CMakeFiles/testodbcomposite.dir/all] 错误 2
 gmake[1]: *** [CMakeFiles/testodbcomposite.dir/rule] 错误 2
 gmake: *** [testodbcomposite] 错误 2
+
+```
